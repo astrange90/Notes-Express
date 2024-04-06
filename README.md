@@ -2,16 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is the first journey of learning backend development with express and creating routes. Learned how to use GET, POST, and DELETE requests. I created routes files to my client server to have a real world approach in organizing larger applications.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -33,28 +26,30 @@ The following GIF shows the web application's appearance and functionality:
 
 ## Installation
 
-These are the installation for npm module express js https://www.npmjs.com/package/express and the npm module uuidv4 https://www.npmjs.com/package/uuidv4. UUIDv4 is a npm package to create unique ids.
+These are the installation documentation for the npm modules Express.js https://www.npmjs.com/package/express and UUIDv4 https://www.npmjs.com/package/uuidv4. UUIDv4 is a npm package to create unique ids. Also will need fs module to read, create, update, and delete files.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This application allows a person to create notes with an unique Id. The user is allowed to create notes, save them, create new notes, and delete saved notes. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+This is what notes were saved when I used the appication
+![Notes Saved by User](<Develop/Assets/Notes Saved Page.png>)
 
-    ```md
-    ![alt text](<Develop/Assets/Notes Saved Page.png>)
-    
-    ```
+Then I deleted the note Pizza which you saw in the previous image
+![Deleted a Note which contained Note Title Pizza](<Develop/Assets/Deleted Pizza Note.png>)
+
+Then I wanted to add a new note of my liking which is Burgers 
+![Adding New Note which contains Note Title Burgers](<Develop/Assets/Adding Burgers Note.png>)
+
+Finally I finished creating that new Burgers note and it is saved 
+![Shows saved Burger Note to User Notes list](<Develop/Assets/Saved Burgers Note.png>)
+
+- Deployed Link: 
 
 ## Credits
 
--AskBCS Learning Assistant
--UCI Express Module
--https://expressjs.com/
--https://www.npmjs.com/
-
-
-## Features
-
-If your project has a lot of features, list them here.
+- AskBCS Learning Assistant
+- UCI Express Module
+- https://expressjs.com/
+- https://www.npmjs.com/
 
