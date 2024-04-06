@@ -29,9 +29,9 @@ body {
   height: calc(100% - 63px);
   padding-top: 15px;
 }
-
+/* Adjusted height on note-tile text, g and j were being cutoff when typed */
 .note-title {
-  height: 50px;
+  height: 75px;
   margin-top: 13px;
   font-size: 3rem;
 }
