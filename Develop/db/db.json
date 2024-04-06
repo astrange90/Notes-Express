@@ -1,72 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "note_id": "578802f5-2853-4411-b5a1-9673a76b6efc"
-    },
-    {
-        "note_id": "7bcc9319-fe7c-4273-bf83-e8bf581c705b"
-    },
-    {
-        "title": "Practice",
-        "text": "Basketball moves",
-        "note_id": "6e9b08f7-e743-4714-9e9d-3aac0dbe2ed2"
-    },
-    {
         "title": "Warriors",
-        "text": "Need to watch game tonight",
-        "id": "9182d5cf-3e9d-4924-933c-649a1f0e7e5b"
+        "text": "Come out and play!!!",
+        "note_id": "b7128699-b78f-4221-8908-6f99ddb6413a"
     },
     {
-        "title": "Hello",
-        "text": "World",
-        "id": "3efb22f0-a60e-4cc3-a725-d8791089c62a"
-    },
-    {
-        "title": "Yo",
-        "text": "Hi",
-        "note_id": "e6a82d8f-ac39-4d32-8da9-aafdcf1a330a"
-    },
-    {
-        "title": "Why",
-        "text": "Please",
-        "note_id": "0b1ebb0c-78ce-4ccc-bb1f-6d49d90c20c2"
-    },
-    {
-        "title": "Post",
-        "text": "This",
-        "note_id": "bf584d73-a085-43b1-bdab-1e35f0f377c0"
-    },
-    {
-        "title": "Hello",
-        "text": "Hello",
-        "note_id": "23ac9bde-8ca5-4b3b-b453-f440c4594e5a"
-    },
-    {
-        "title": "Hello",
-        "text": "Yo",
-        "note_id": "866bb828-2f77-4993-910c-a6574a39d11f"
-    },
-    {
-        "title": "How",
-        "text": "Come\n",
-        "note_id": "f776d004-cfb3-4d93-a44b-989a229f9c83"
-    },
-    {
-        "title": "h",
-        "text": "h",
-        "note_id": "849c1863-4c87-4894-a8fc-2260a176bebd"
-    },
-    {
-        "title": "Hello",
-        "text": "Hello",
-        "note_id": "0743ea3e-e7a6-49aa-ba3c-26b6776707a7"
-    },
-    {
-        "title": "h",
-        "text": "s",
-        "note_id": "f0e32f9b-f84f-4c84-b6b1-2b2d427f036b"
+        "title": "Street Fighter",
+        "text": "Chun Li Combos",
+        "note_id": "eda71d55-5f11-4add-8a9b-960f9b2a3dd8"
     }
 ]
